@@ -31,7 +31,7 @@ const config = {
                 // TODO(dnguyen0304): Document that the /blob/main path is
                 // required.
                 editUrl:
-                    'https://github.com/dnguyen0304/fake-docusaurus-site/blob/main/',
+                    'https://github.com/dnguyen0304/docusaurus-editor-site/blob/main/',
             },
         ],
     ],
@@ -41,6 +41,7 @@ const config = {
             'classic',
             /** @type {import('@docusaurus/preset-classic').Options} */
             ({
+                // TODO(dnguyen0304): Document environment setup.
                 docs: false,
                 blog: {
                     showReadingTime: true,
