@@ -34,6 +34,7 @@ const config = {
                     'https://github.com/dnguyen0304/docusaurus-editor-site/blob/main/',
             },
         ],
+        '@docupotamus/docusaurus-theme-editor',
     ],
 
     presets: [
