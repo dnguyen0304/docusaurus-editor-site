@@ -22,6 +22,15 @@ const config = {
         locales: ['en'],
     },
 
+    // Static website hosting providers have different behaviors. For S3 if the
+    // object key "foo" is not found, the user is redirected to "foo/",
+    // "foo/index.html" is served, but search parameters are removed. In
+    // Chrome DevTools | Network, this is observed as a 302 Found redirect.
+    //
+    // See: https://docs.aws.amazon.com/AmazonS3/latest/userguide/IndexDocumentSupport.html
+    // See: https://stackoverflow.com/questions/21468600/amazon-s3-static-website-hosting-support-both-trailing-slash-and-not
+    trailingSlash: true,
+
     // TODO(dnguyen0304): Document environment setup.
     plugins: [
         [
