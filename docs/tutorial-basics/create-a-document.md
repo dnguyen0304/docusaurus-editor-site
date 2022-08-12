@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Create a Document
 
+test A
+
 Documents are **groups of pages** connected through:
 
 - a **sidebar**
@@ -53,3 +55,5 @@ module.exports = {
   ],
 };
 ```
+
+
