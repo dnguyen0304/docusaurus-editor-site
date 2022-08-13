@@ -16,7 +16,7 @@
     },
     "dependencies": {
         "@docupotamus/docusaurus-plugin-editor": "^0.1.0",
-        "@docupotamus/docusaurus-theme-editor": "^0.1.2",
+        "@docupotamus/docusaurus-theme-editor": "^0.1.3",
         "@docusaurus/core": "2.0.1",
         "@docusaurus/preset-classic": "2.0.1",
         "@mdx-js/react": "^1.6.22",
