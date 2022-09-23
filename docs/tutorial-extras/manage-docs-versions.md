@@ -6,6 +6,10 @@ sidebar_position: 1
 
 Docusaurus can manage multiple versions of your docs.
 
+## 2022-09-22
+
+- This is a test.
+
 ## Create a docs version
 
 Release a version 1.0 of your project:
