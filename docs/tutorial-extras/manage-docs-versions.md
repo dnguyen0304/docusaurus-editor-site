@@ -8,7 +8,7 @@ Docusaurus can manage multiple versions of your docs.
 
 ## 2022-09-22
 
-- This is a test.
+- Released `@docupotamus/docusaurus-theme-editor@0.5.0` with merge-specific tooltips and pull request title auto focus. Fixed saved content being overwritten.
 
 ## Create a docs version
 
@@ -57,3 +57,4 @@ It is possible to edit versioned docs in their respective folder:
 
 - `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
 - `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+A
