@@ -6,6 +6,10 @@ sidebar_position: 1
 
 Docusaurus can manage multiple versions of your docs.
 
+## 2022-09-24
+
+- placeholder
+
 ## 2022-09-23
 
 - Released `@docupotamus/docusaurus-theme-editor@0.6.0` with discard button tooltip. Fixed dark mode for editor container.
