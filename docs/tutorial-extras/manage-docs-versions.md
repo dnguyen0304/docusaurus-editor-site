@@ -14,6 +14,8 @@ Docusaurus can manage multiple versions of your docs.
 
 - Released `@docupotamus/docusaurus-theme-editor@0.5.0` with merge-specific tooltips and pull request title auto focus. Fixed saved content being overwritten.
 
+- Inspect vscode.dev for the implementation.
+
 ## Create a docs version
 
 Release a version 1.0 of your project:
