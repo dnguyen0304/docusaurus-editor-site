@@ -6,11 +6,13 @@ sidebar_position: 1
 
 Docusaurus can manage multiple versions of your docs.
 
+## 2022-09-23
+
+- Released `@docupotamus/docusaurus-theme-editor@0.6.0` with discard button tooltip. Fixed dark mode for editor container.
+
 ## 2022-09-22
 
 - Released `@docupotamus/docusaurus-theme-editor@0.5.0` with merge-specific tooltips and pull request title auto focus. Fixed saved content being overwritten.
-
-- Inspect vscode.dev for the implementation.
 
 ## Create a docs version
 
