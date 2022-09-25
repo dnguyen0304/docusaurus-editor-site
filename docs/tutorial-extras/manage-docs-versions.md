@@ -8,7 +8,7 @@ Docusaurus can manage multiple versions of your docs.
 
 ## 2022-09-24
 
-- placeholder
+- Released `@docupotamus/docusaurus-theme-editor@0.7.0` with welcome notification.
 
 ## 2022-09-23
 
