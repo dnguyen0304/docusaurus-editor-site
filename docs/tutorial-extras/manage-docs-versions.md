@@ -6,6 +6,10 @@ sidebar_position: 1
 
 Docusaurus can manage multiple versions of your docs.
 
+## 2022-09-26
+
+- Released `@docupotamus/docusaurus-theme-editor@0.8.0` with githubAuthorizationRedirectUrl theme configuration and reading bands debug mode.
+
 ## 2022-09-24
 
 - Released `@docupotamus/docusaurus-theme-editor@0.7.0` with welcome notification.
